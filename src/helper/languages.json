@@ -1,0 +1,437 @@
+[{
+        "key": "Afrikaans",
+        "value": "af"
+    },
+    {
+        "key": "Albanian",
+        "value": "sq"
+    },
+    {
+        "key": "Amharic",
+        "value": "am"
+    },
+    {
+        "key": "Arabic",
+        "value": "ar"
+    },
+    {
+        "key": "Armenian",
+        "value": "hy"
+    },
+    {
+        "key": "Azerbaijani",
+        "value": "az"
+    },
+    {
+        "key": "Basque",
+        "value": "eu"
+    },
+    {
+        "key": "Belarusian",
+        "value": "be"
+    },
+    {
+        "key": "Bengali",
+        "value": "bn"
+    },
+    {
+        "key": "Bosnian",
+        "value": "bs"
+    },
+    {
+        "key": "Bulgarian",
+        "value": "bg"
+    },
+    {
+        "key": "Catalan",
+        "value": "ca"
+    },
+    {
+        "key": "Cebuano",
+        "value": "ceb (ISO-639-2)"
+    },
+    {
+        "key": "Chinese (Simplified)",
+        "value": "zh-CN or zh (BCP-47)"
+    },
+    {
+        "key": "Chinese (Traditional)",
+        "value": "zh-TW (BCP-47)"
+    },
+    {
+        "key": "Corsican",
+        "value": "co"
+    },
+    {
+        "key": "Croatian",
+        "value": "hr"
+    },
+    {
+        "key": "Czech",
+        "value": "cs"
+    },
+    {
+        "key": "Danish",
+        "value": "da"
+    },
+    {
+        "key": "Dutch",
+        "value": "nl"
+    },
+    {
+        "key": "English",
+        "value": "en"
+    },
+    {
+        "key": "Esperanto",
+        "value": "eo"
+    },
+    {
+        "key": "Estonian",
+        "value": "et"
+    },
+    {
+        "key": "Finnish",
+        "value": "fi"
+    },
+    {
+        "key": "French",
+        "value": "fr"
+    },
+    {
+        "key": "Frisian",
+        "value": "fy"
+    },
+    {
+        "key": "Galician",
+        "value": "gl"
+    },
+    {
+        "key": "Georgian",
+        "value": "ka"
+    },
+    {
+        "key": "German",
+        "value": "de"
+    },
+    {
+        "key": "Greek",
+        "value": "el"
+    },
+    {
+        "key": "Gujarati",
+        "value": "gu"
+    },
+    {
+        "key": "Haitian Creole",
+        "value": "ht"
+    },
+    {
+        "key": "Hausa",
+        "value": "ha"
+    },
+    {
+        "key": "Hawaiian",
+        "value": "haw (ISO-639-2)"
+    },
+    {
+        "key": "Hebrew",
+        "value": "he or iw"
+    },
+    {
+        "key": "Hindi",
+        "value": "hi"
+    },
+    {
+        "key": "Hmong",
+        "value": "hmn (ISO-639-2)"
+    },
+    {
+        "key": "Hungarian",
+        "value": "hu"
+    },
+    {
+        "key": "Icelandic",
+        "value": "is"
+    },
+    {
+        "key": "Igbo",
+        "value": "ig"
+    },
+    {
+        "key": "Indonesian",
+        "value": "id"
+    },
+    {
+        "key": "Irish",
+        "value": "ga"
+    },
+    {
+        "key": "Italian",
+        "value": "it"
+    },
+    {
+        "key": "Japanese",
+        "value": "ja"
+    },
+    {
+        "key": "Javanese",
+        "value": "jv"
+    },
+    {
+        "key": "Kannada",
+        "value": "kn"
+    },
+    {
+        "key": "Kazakh",
+        "value": "kk"
+    },
+    {
+        "key": "Khmer",
+        "value": "km"
+    },
+    {
+        "key": "Kinyarwanda",
+        "value": "rw"
+    },
+    {
+        "key": "Korean",
+        "value": "ko"
+    },
+    {
+        "key": "Kurdish",
+        "value": "ku"
+    },
+    {
+        "key": "Kyrgyz",
+        "value": "ky"
+    },
+    {
+        "key": "Lao",
+        "value": "lo"
+    },
+    {
+        "key": "Latin",
+        "value": "la"
+    },
+    {
+        "key": "Latvian",
+        "value": "lv"
+    },
+    {
+        "key": "Lithuanian",
+        "value": "lt"
+    },
+    {
+        "key": "Luxembourgish",
+        "value": "lb"
+    },
+    {
+        "key": "Macedonian",
+        "value": "mk"
+    },
+    {
+        "key": "Malagasy",
+        "value": "mg"
+    },
+    {
+        "key": "Malay",
+        "value": "ms"
+    },
+    {
+        "key": "Malayalam",
+        "value": "ml"
+    },
+    {
+        "key": "Maltese",
+        "value": "mt"
+    },
+    {
+        "key": "Maori",
+        "value": "mi"
+    },
+    {
+        "key": "Marathi",
+        "value": "mr"
+    },
+    {
+        "key": "Mongolian",
+        "value": "mn"
+    },
+    {
+        "key": "Myanmar (Burmese)",
+        "value": "my"
+    },
+    {
+        "key": "Nepali",
+        "value": "ne"
+    },
+    {
+        "key": "Norwegian",
+        "value": "no"
+    },
+    {
+        "key": "Nyanja (Chichewa)",
+        "value": "ny"
+    },
+    {
+        "key": "Odia (Oriya)",
+        "value": "or"
+    },
+    {
+        "key": "Pashto",
+        "value": "ps"
+    },
+    {
+        "key": "Persian",
+        "value": "fa"
+    },
+    {
+        "key": "Polish",
+        "value": "pl"
+    },
+    {
+        "key": "Portuguese (Portugal, Brazil)",
+        "value": "pt"
+    },
+    {
+        "key": "Punjabi",
+        "value": "pa"
+    },
+    {
+        "key": "Romanian",
+        "value": "ro"
+    },
+    {
+        "key": "Russian",
+        "value": "ru"
+    },
+    {
+        "key": "Samoan",
+        "value": "sm"
+    },
+    {
+        "key": "Scots Gaelic",
+        "value": "gd"
+    },
+    {
+        "key": "Serbian",
+        "value": "sr"
+    },
+    {
+        "key": "Sesotho",
+        "value": "st"
+    },
+    {
+        "key": "Shona",
+        "value": "sn"
+    },
+    {
+        "key": "Sindhi",
+        "value": "sd"
+    },
+    {
+        "key": "Sinhala (Sinhalese)",
+        "value": "si"
+    },
+    {
+        "key": "Slovak",
+        "value": "sk"
+    },
+    {
+        "key": "Slovenian",
+        "value": "sl"
+    },
+    {
+        "key": "Somali",
+        "value": "so"
+    },
+    {
+        "key": "Spanish",
+        "value": "es"
+    },
+    {
+        "key": "Sundanese",
+        "value": "su"
+    },
+    {
+        "key": "Swahili",
+        "value": "sw"
+    },
+    {
+        "key": "Swedish",
+        "value": "sv"
+    },
+    {
+        "key": "Tagalog (Filipino)",
+        "value": "tl"
+    },
+    {
+        "key": "Tajik",
+        "value": "tg"
+    },
+    {
+        "key": "Tamil",
+        "value": "ta"
+    },
+    {
+        "key": "Tatar",
+        "value": "tt"
+    },
+    {
+        "key": "Telugu",
+        "value": "te"
+    },
+    {
+        "key": "Thai",
+        "value": "th"
+    },
+    {
+        "key": "Turkish",
+        "value": "tr"
+    },
+    {
+        "key": "Turkmen",
+        "value": "tk"
+    },
+    {
+        "key": "Ukrainian",
+        "value": "uk"
+    },
+    {
+        "key": "Urdu",
+        "value": "ur"
+    },
+    {
+        "key": "Uyghur",
+        "value": "ug"
+    },
+    {
+        "key": "Uzbek",
+        "value": "uz"
+    },
+    {
+        "key": "Vietnamese",
+        "value": "vi"
+    },
+    {
+        "key": "Welsh",
+        "value": "cy"
+    },
+    {
+        "key": "Xhosa",
+        "value": "xh"
+    },
+    {
+        "key": "Yiddish",
+        "value": "yi"
+    },
+    {
+        "key": "Yoruba",
+        "value": "yo"
+    },
+    {
+        "key": "Zulu",
+        "value": "zu"
+    }
+]
